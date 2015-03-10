@@ -4,4 +4,8 @@
 *.png
 *.e123*
 *.o123*
+*.mat
+log.lammps
+atomsdump
+*.data
 
