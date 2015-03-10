@@ -13,7 +13,7 @@ variable        eqsteps equal 50000
 variable        simsteps equal 200000
 
 # Our trial melting temperature
-variable	T equal 800.0
+variable	T equal 1160.0
 variable	T2 equal 2*${T}
 
 # Some high temperature to melt the crystal
